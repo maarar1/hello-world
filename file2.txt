@@ -1,3 +1,5 @@
 Fichero file2.txt
 
 Otro más...
+
+Nuevas líneas
