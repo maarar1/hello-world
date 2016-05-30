@@ -2,4 +2,6 @@ Fichero file2.txt
 
 Otro más...
 
+Nueva línea desde fix-002.
+
 Nuevas líneas
